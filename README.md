@@ -1,4 +1,4 @@
-# estimation
+# pointgo
 
 ## Project setup
 ```
